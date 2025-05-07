@@ -1,0 +1,10 @@
+langchain-google-genai
+langchain
+faiss-cpu
+langchain-community
+huggingface-hub==0.25.2
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+transformers==4.37.2
+
+
